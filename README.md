@@ -84,13 +84,13 @@ This project was created to make learning algorithms easier through visual under
 
 ## 🔮 Future Improvements
 
-Graph Algorithms Visualization
-Pathfinding Visualization
-Complexity Comparison Panel
-Audio Feedback
-Algorithm Information Sidebar
-Custom Array Input
-Mobile Optimization
+* Graph Algorithms Visualization
+* Pathfinding Visualization
+* Complexity Comparison Panel
+* Audio Feedback
+* Algorithm Information Sidebar
+* Custom Array Input
+* Mobile Optimization
 
 ---
 
