@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# ML models
+*.pt
+
+# Node modules
+node_modules/
+
+# Firebase
+serviceAccountKey.json
